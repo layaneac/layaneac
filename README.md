@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou a Layane e estudo no Francisco Cristiano 👋
 
 <!--
 **layaneac/layaneac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
